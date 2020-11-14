@@ -6,9 +6,7 @@ cards:
   milestones:
     - requirement: Settle on [ISLAND].
       modi: Nook Inc&apos;s
-      noun: Patron
-      
-      
+      noun: Patron      
       
 - name: Angling for Perfection
   type: p
@@ -119,6 +117,5 @@ cards:
   - quantity: 80
     modi: Scarce
     noun: Critter
-
 
 ...

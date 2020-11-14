@@ -54,4 +54,15 @@ var milestones =
           { quantity: 100, modi: 'Weak', noun: 'Grub' },
           { quantity: 500, modi: 'Emerging', noun: 'Pupa' },
           { quantity: 2000, modi: 'Soaring', noun: 'Butterfly' },
-          { quantity: 5000, modi: 'Complete', noun: 'Metamorphosis' } ] } ] }
+          { quantity: 5000, modi: 'Complete', noun: 'Metamorphosis' } ] },
+     { name: 'Bugs Don\'t Bug Me',
+       type: 'p',
+       max: 80,
+       prefix: 'Unlock ',
+       suffix: ' bug entries in the Critterpedia.',
+       milestones: 
+        [ { quantity: 10, modi: 'Hobby-Level', noun: 'Bug Fan' },
+          { quantity: 20, modi: 'Night-Owl', noun: 'Insect' },
+          { quantity: 40, modi: 'Defiant', noun: 'Ant' },
+          { quantity: 60, modi: 'Polymorphing', noun: 'Creature' },
+          { quantity: 80, modi: 'Scarce', noun: 'Critter' } ] } ] }

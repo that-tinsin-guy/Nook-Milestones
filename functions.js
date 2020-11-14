@@ -64,14 +64,14 @@ function parse_milestones(){
 	
 	
 		//adding title
-		full_text.add("<h1>[PLAYER] from [ISLAND]</h1>");
+		full_text.add("<h1 class='text-center'>[PLAYER] from [ISLAND]</h1>");
 	
 	
 	for (var n=0; n<cardcount; n++){
 		var current = deck.cards[n];
 		console.log("Parsing " + current.name + "...");
 		//adding header
-		full_text.add("<h4>" + current.name + "</h4>\n");
+		full_text.add("<h4 class='text-left'>" + current.name + "</h4>\n");
 		//starting compare bar
 		full_text.add('<div class="progress" style="height:25px">');
 		
@@ -148,13 +148,30 @@ function parse_milestones(){
 				full_text.add("</div>");
 				
 			};
-			/*
 			if (current.type == "b"){
+				full_text.add("<div id='personal' class='collapse show'>");
+				full_text.add("<div class='progress'>");
+				supplied_asset = input_string.split("\n");
+				progress = supplied_asset[n+1].split("|")[1];
 				var bin = progress.split("");
-				for (i in get_length(bin)){
+				var size = get_length(bin);
+				var slotwidth = 100/size;
+				var barcolor = "bg-success";
+				for (i in bin){
+					if (i % 2 == 0){
+						barstripes = "";
+					}else{
+						barstripes = " progress-bar-striped";
+					};
+					if (bin[i] == "O"){
+						full_text.add("<div class='progress-bar bg-success" + barstripes + "' style='width:"+ slotwidth +"%'>&check;</div>");
+					}else{
+						full_text.add("<div class='progress-bar bg-secondary" + barstripes + "'  style='width:"+ slotwidth +"%'>&cross;</div>");
+					};
 				};
+				full_text.add("</div>");
+				full_text.add("</div>");
 			};
-			*/
 			
 		};
 	};

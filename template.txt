@@ -13,4 +13,76 @@ DIY Furniture|0
 Furniture Freshener|0
 Rough-hewn|0
 Trashed Tools|0
-Rock-Splitting Champ|0
+Rock-Splitting Champ|X
+Bona Fide Bone Finder!|X
+Fossil Assessment|0
+Greedy Weeder|0
+Flower Power|0
+Flower Tender|0
+Tomorrow's Trees Today|0
+Pick of the Bunch|0
+Fruit Roots|XXXXXX
+Shrubbery Hubbubbery|0
+Go Ahead. Be Shellfish!|0
+Clam and Collected|0
+Trash Fishin'|0
+Cast Master|0
+Dream House|0
+Decorated Decorator|X
+Hoard Reward|0
+Good Things in Store!|0
+Remarkable Remodeler|0
+Smile Isle|0
+Reaction Ruler|0
+Island Shutterbug|X
+Edit Credit|X
+NookPhone Life|X
+That's One Smart Phone|X
+Shop To It|0
+Growing Collection|0
+Nook Miles for Miles!|0
+First-Time Buyer|X
+Seller of Unwanted Stuff|X
+Moving Fees Paid!|X
+Bell Ringer|0
+Miles for Stalkholders|X
+Cornering the Stalk Market|0
+No More Loan Payments!|X
+Bulletin-Board Benefit|X
+Popular Pen Pal|0
+Flea Flicker|0
+Cicada Memories|X
+Netting Better!|X
+Pit-y Party|X
+Taking the Sting Out|X
+Faint of Heart|X
+Overcoming Pitfalls|X
+Faked Out!|X
+Lost Treasure|X
+It's Raining Treasure!|0
+Fun with Fences|0
+Snowmaestro|0
+Wishes Come True|0
+Exterior Decorator|0
+[ISLAND] Icons|XX
+Island Designer|XXX
+Wispy Island Secrets|0
+Gulliver's Travails|0
+K.K. Mania|0
+True Patron of the Arts|0
+You Otter Know|0
+True Friends|0
+Birthday Celebration|0
+Happy Birthday!|X
+Fishing Tourney!|XXXX
+Bug-Off!|XXXX
+Countdown Celebration|X
+Making a Change|X
+First Custom Design!|X
+Custom Design Pro!|X
+Paydirt!|X
+Shady Shakedown|0
+Golden Milestone|XXXXXX
+Island and Yourland|0
+Host the Most|0
+Active Island Resident|0
