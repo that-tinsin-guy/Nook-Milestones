@@ -1,0 +1,16 @@
+[PLAYER]|[ISLAND]
+[ISLAND] Miles|X
+Angling for Perfection|0
+Island Ichthyologist|0
+Island Togetherness|0
+You've Got the Bug|0
+Bugs Don't Bug Me|0
+Have a Nice DIY!|0
+Deep Dive|0
+Underwater Understudy|0
+DIY Tools|0
+DIY Furniture|0
+Furniture Freshener|0
+Rough-hewn|0
+Trashed Tools|0
+Rock-Splitting Champ|0

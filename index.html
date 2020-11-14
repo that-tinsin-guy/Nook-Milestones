@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>New Horizons :: Nook Milestone Tracker</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/styles/basicnookphone.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <script src="milestones.js"></script>
+  <script src="functions.js"></script>
+  <style>
+div{
+ ;
+}
+  
+  a {
+	color: white;
+  }
+  </style>
+<script>
+$(document).ready(function(){
+  $('[data-toggle="popover"]').popover();
+});
+</script>
+
+</head>
+<body>
+
+<div class="container-fluid">
+
+
+<div id="milestones" class="collapse show">
+<div id="main-bit" class="container">
+
+
+
+</div>
+<div id="controls" class="collapse show">
+<div class="container">
+<div class="form-group">
+  <textarea class="form-control" rows="2" id="input" placeholder="Paste file here" name="text"></textarea>
+</div>
+<a href="#" onClick="parse_input()" class="btn btn-primary btn-block">Parse Text</a>
+<button class="btn btn-outline-primary btn-block" data-toggle="collapse" data-target="#personal">Show/Hide Progress</button>
+<a href="#" onClick="window.open('template.txt', '_blank');" class="btn btn-outline-primary btn-block">Open Template Sheet</a>
+</div>
+</div>
+</div>
+&nbsp;<br><br><br><br>
+<button class="btn btn-outline-primary btn-block" data-toggle="collapse" data-target="#controls">Show/Hide Controls</button>
+</div>
+
+
+
+
+</body>
+</html>
